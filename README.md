@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony</h1>
-<h3 align="center">Junior Developer trying to get a job :D</h3>
+<h3 align="center">Junior Developer :D</h3>
 
 - 🌱 I’m currently learning **Javascript and Java.**
 
