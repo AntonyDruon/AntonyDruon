@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antony</h1>
 <h3 align="center">Junior Developer :D</h3>
 
-- 🌱 I’m currently learning **Javascript and Java.**
+- 🌱 I’m currently learning **React & Node.js.**
 
 - 📫 How to reach me **druonantony@gmail.com**
 
